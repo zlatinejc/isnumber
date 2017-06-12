@@ -1,6 +1,6 @@
 {
   "name": "isnumber-js",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "A native module for effectively validating if a value is type Number.",
   "main": "index.js",
   "repository": {
@@ -14,5 +14,29 @@
   "license": "MIT",
   "dependencies": {
     "is-number" : "latest"
-  }
+  },
+  "keywords" :[
+    "isnotarray",
+    "isarray",
+    "array",
+    "check",
+    "coerce",
+    "coercion",
+    "integer",
+    "is",
+    "is-nan",
+    "is-num",
+    "is-number",
+    "istype",
+    "kind",
+    "math",
+    "nan",
+    "num",
+    "number",
+    "numeric",
+    "test",
+    "type",
+    "typeof",
+    "value"
+  ]
 }
