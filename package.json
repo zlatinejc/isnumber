@@ -1,6 +1,6 @@
 {
   "name": "isnumber-js",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "A native module for effectively validating if a value is type Number.",
   "main": "index.js",
   "repository": {
