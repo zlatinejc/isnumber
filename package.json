@@ -1,6 +1,6 @@
 {
   "name": "isnumber-js",
-  "version": "1.0.6",
+  "version": "1.0.8",
   "description": "A native module for effectively validating if a value is type Number.",
   "main": "index.js",
   "repository": {
@@ -16,9 +16,11 @@
     "is-number" : "latest"
   },
   "keywords" :[
-    "isnotarray",
-    "isarray",
+    "isnumber",
+    "equal",
     "array",
+    "isarray",
+    "equality",
     "check",
     "coerce",
     "coercion",
